@@ -1,6 +1,6 @@
 # my-test-tasks
 
-Тут собран список с репозиториями тестовых заданий, которые я выполнял
+Список репозиториев с тестовыми заданиями, которые я выполнял
 
 - [koshelek-crypto-market](https://github.com/DanilChugaev/koshelek-crypto-market) - Тестовое задание для Кошелек.ру
 - [wisebits-test](https://github.com/DanilChugaev/wisebits-test) - Тестовое задание для wisebits
