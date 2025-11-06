@@ -2,6 +2,7 @@
 
 Список репозиториев с тестовыми заданиями, которые я выполнял
 
+- [rest-api-client](https://github.com/DanilChugaev/rest-api-client)
 - [koshelek-crypto-market](https://github.com/DanilChugaev/koshelek-crypto-market) - Тестовое задание для Кошелек.ру
 - [wisebits-test](https://github.com/DanilChugaev/wisebits-test) - Тестовое задание для wisebits
 - [bulltrade-todo](https://github.com/DanilChugaev/bulltrade-todo) - Тестовое задание для bulltrade
